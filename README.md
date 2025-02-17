@@ -15,6 +15,10 @@ National Central University KSLab x 瑞模德科技有限公司
 
 ## Introduction
 The **Slope-Detection-Taiwan** project is aimed to build a machine learning model that predicts the movements of the slopes in different areas of Taiwan. 
+Key characteristics of the dataset include:
+- date_time
+- E, H, N
+- E_Move, H_Move, N_Move
 
 ## Dataset Overview
 All details of the datas are in [README_Dataset.md](Data\README_Dataset.md)
