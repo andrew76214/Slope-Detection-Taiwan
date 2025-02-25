@@ -22,7 +22,25 @@ Key characteristics of the dataset include:
 ## Dataset Overview
 All details of the datas are in [README_Dataset.md](Data\README_Dataset.md)
 
+We only use the first data from each city:
+- Kaohsiung/g2.csv
+- Nantou/cn01.csv
+- Taipei/h23-g1.csv
+
 ## Dataset EDA
+(with and without Handling Outlier Values)
+
+Kaohsiung/g2 
+![image](img/Kaohsiung_g2_original.png)
+![image](img/Kaohsiung_g2_remove.png)
+
+Nantou/cn01
+![image](img/Nantou_cn01_original.png)
+![image](img/Nantou_cn01_remove.png)
+
+Taipei/h23-g1
+![image](img/Taipei_h23-g1_original.png)
+![image](img/Taipei_h23-g1_remove.png)
 
 ## Data Preprocessing  
 1. **Step 1: Choosing Relevent Columns** 
@@ -67,9 +85,20 @@ We use `MAE` and `RMSE` score as our performance metric.
 </div>
 
 ## Experimental Record
-<!-- <div align="center">
-  <img src="https://github.com/andrew76214/Kaggle-NLP_with_Disaster_Tweets/blob/main/img/ML1_evaluation.png" alt="Hisplot"/>
-</div> -->
+Taipei
+![image](img/Evaluation_EMove_Taipei_h23.png)
+![image](img/Evaluation_NMove_Taipei_h23.png)
+![image](img/Evaluation_HMove_Taipei_h23.png)
+
+Nantou
+![image](img/Evaluation_EMove_Nantou_cn01.png)
+![image](img/Evaluation_NMove_Nantou_cn01.png)
+![image](img/Evaluation_HMove_Nantou_cn01.png)
+
+Kaohsiung
+![image](img/Evaluation_EMove_Kaohsiung_g2.png)
+![image](img/Evaluation_NMove_Kaohsiung_g2.png)
+![image](img/Evaluation_HMove_Kaohsiung_g2.png)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
