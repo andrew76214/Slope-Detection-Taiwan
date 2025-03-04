@@ -31,7 +31,7 @@ We only use the first data from each city:
 (with and without Handling Outlier Values)
 
 Kaohsiung/g2 
-![image](img/Evaluation_Result_for_NMove_-_Kaohsiung-g2.png)
+![image](img/Kaohsiung_g2_original.png)
 ![image](img/Kaohsiung_g2_remove.png)
 
 Nantou/cn01
@@ -86,19 +86,22 @@ We use `MAE` and `RMSE` score as our performance metric.
 
 ## Experimental Record
 Taipei
-![image](img/Evaluation_EMove_Taipei_h23.png)
-![image](img/Evaluation_NMove_Taipei_h23.png)
-![image](img/Evaluation_HMove_Taipei_h23.png)
+
+![image](img/Evaluation_Result_for_EMove_Taipei-g1.png)
+![image](img/Evaluation_Result_for_NMove_Taipei-g1.png)
+![image](img/Evaluation_Result_for_HMove_Taipei-g1.png)
 
 Nantou
-![image](img/Evaluation_EMove_Nantou_cn01.png)
-![image](img/Evaluation_NMove_Nantou_cn01.png)
-![image](img/Evaluation_HMove_Nantou_cn01.png)
+
+![image](img/Evaluation_Result_for_EMove_Nantou-cn01.png)
+![image](img/Evaluation_Result_for_NMove_Nantou-cn01.png)
+![image](img/Evaluation_Result_for_HMove_Nantou-cn01.png)
 
 Kaohsiung
-![image](img/Evaluation_EMove_Kaohsiung_g2.png)
-![image](img/Evaluation_NMove_Kaohsiung_g2.png)
-![image](img/Evaluation_HMove_Kaohsiung_g2.png)
+
+![image](img/Evaluation_Result_for_EMove_Kaohsiung-g2.png)
+![image](img/Evaluation_Result_for_NMove_Kaohsiung-g2.png)
+![image](img/Evaluation_Result_for_HMove_Kaohsiung-g2.png)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
