@@ -55,9 +55,9 @@ XGBoost
 ![image](img/XGBoost_Nantou_movements_compare.png)
 
 GRU
-![image](img/GRU_Taipei_movements_compare.png)
+![image](img/GRU_taipei_movements_compare.png)
 XGBoost
-![image](img/XGBoost_Taipei_movements_compare.png)
+![image](img/XGBoost_taipei_movements_compare.png)
 ## Data Preprocessing  
 1. **Step 1: Choosing Relevent Columns** 
     - Getting target columns and features columns.
