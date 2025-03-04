@@ -31,7 +31,7 @@ We only use the first data from each city:
 (with and without Handling Outlier Values)
 
 Kaohsiung/g2 
-![image](img/Evaluation_Result_for_NMove_-_Kaohsiung-g2.png)
+![image](img/Kaohsiung_g2_original.png)
 ![image](img/Kaohsiung_g2_remove.png)
 
 Nantou/cn01
