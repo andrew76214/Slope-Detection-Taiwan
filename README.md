@@ -86,7 +86,7 @@ We use `MAE` and `RMSE` score as our performance metric.
 
 ## Experimental Record
 Taipei
-![image](img/Evaluation_EMove_Taipei_h23.png)
+![image](img/Evaluation Result for EMove - Kaohsiung-g2.png)
 ![image](img/Evaluation_NMove_Taipei_h23.png)
 ![image](img/Evaluation_HMove_Taipei_h23.png)
 
