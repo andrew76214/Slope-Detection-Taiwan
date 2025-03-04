@@ -42,6 +42,22 @@ Taipei/h23-g1
 ![image](img/Taipei_h23-g1_original.png)
 ![image](img/Taipei_h23-g1_remove.png)
 
+
+Result comparision with the actual data
+GRU
+![image](img/GRU_Kaohsiung_movements_compare.png)
+XGBoost
+![image](img/XGBoost_Kaohsiung_movements_compare.png)
+
+GRU
+![image](img/GRU_Nantou_movements_compare.png)
+XGBoost
+![image](img/XGBoost_Nantou_movements_compare.png)
+
+GRU
+![image](img/GRU_Taipei_movements_compare.png)
+XGBoost
+![image](img/XGBoost_Taipei_movements_compare.png)
 ## Data Preprocessing  
 1. **Step 1: Choosing Relevent Columns** 
     - Getting target columns and features columns.
