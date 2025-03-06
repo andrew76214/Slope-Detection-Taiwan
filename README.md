@@ -27,6 +27,11 @@ We only use the first data from each city:
 - Nantou/cn01.csv
 - Taipei/h23-g1.csv
 
+And after data handling, the data being used are:
+- Kaohsiung/g2_scaled.csv
+- Nantou/cn01_scaled.csv
+- Taipei/h23-g1_scaled.csv
+
 ## Dataset EDA
 (with and without Handling Outlier Values)
 
