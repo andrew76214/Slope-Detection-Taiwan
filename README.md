@@ -52,25 +52,34 @@ Result comparision with the actual data
 
 GRU
 ![image](img/GRU_Kaohsiung_movements_compare.png)
+
 XGBoost
 ![image](img/XGBoost_Kaohsiung_movements_compare.png)
+
 TFT
+
 ![image](img/TFT_Kaohsiung_movements_compare.png)
 
 ---
 GRU
 ![image](img/GRU_Nantou_movements_compare.png)
+
 XGBoost
 ![image](img/XGBoost_Nantou_movements_compare.png)
+
 TFT
+
 ![image](img/TFT_Nantou_movements_compare.png)
 
 ---
 GRU
 ![image](img/GRU_taipei_movements_compare.png)
+
 XGBoost
 ![image](img/XGBoost_taipei_movements_compare.png)
+
 TFT
+
 ![image](img/TFT_Taipei_movements_compare.png)
 
 ## Data Preprocessing  
