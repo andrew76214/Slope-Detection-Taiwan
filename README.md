@@ -53,16 +53,23 @@ GRU
 ![image](img/GRU_Kaohsiung_movements_compare.png)
 XGBoost
 ![image](img/XGBoost_Kaohsiung_movements_compare.png)
+TFT
+![image](img/TFT_Kaohsiung_movements_compare.png)
 
 GRU
 ![image](img/GRU_Nantou_movements_compare.png)
 XGBoost
 ![image](img/XGBoost_Nantou_movements_compare.png)
+TFT
+![image](img/TFT_Nantou_movements_compare.png)
 
 GRU
 ![image](img/GRU_taipei_movements_compare.png)
 XGBoost
 ![image](img/XGBoost_taipei_movements_compare.png)
+TFT
+![image](img/TFT_Taipei_movements_compare.png)
+
 ## Data Preprocessing  
 1. **Step 1: Choosing Relevent Columns** 
     - Getting target columns and features columns.
@@ -94,10 +101,10 @@ flowchart TD
 
 - **Decision Trees and Ensemble Models**:  
   - XGBoost  
-  - Random Forest  
 
 ### Deep Learning Models
   - GRU
+  - Temporal Fusion Transformer (TFT)
 
 ## Evaluation
 We use `MAE` and `RMSE` score as our performance metric.
