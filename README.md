@@ -54,6 +54,7 @@ GRU
 XGBoost
 ![image](img/XGBoost_Kaohsiung_movements_compare.png)
 TFT
+
 ![image](img/TFT_Kaohsiung_movements_compare.png)
 
 GRU
@@ -61,6 +62,7 @@ GRU
 XGBoost
 ![image](img/XGBoost_Nantou_movements_compare.png)
 TFT
+
 ![image](img/TFT_Nantou_movements_compare.png)
 
 GRU
@@ -68,6 +70,7 @@ GRU
 XGBoost
 ![image](img/XGBoost_taipei_movements_compare.png)
 TFT
+
 ![image](img/TFT_Taipei_movements_compare.png)
 
 ## Data Preprocessing  
