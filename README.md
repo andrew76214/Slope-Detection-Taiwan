@@ -61,6 +61,7 @@ TFT
 ![image](img/TFT_Kaohsiung_movements_compare.png)
 
 ---
+
 GRU
 ![image](img/GRU_Nantou_movements_compare.png)
 
@@ -72,6 +73,7 @@ TFT
 ![image](img/TFT_Nantou_movements_compare.png)
 
 ---
+
 GRU
 ![image](img/GRU_Taipei_movements_compare.png)
 
