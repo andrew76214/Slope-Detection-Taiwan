@@ -48,7 +48,7 @@ Taipei/h23-g1
 ![image](img/Taipei_h23-g1_remove.png)
 
 
-Result comparision with the actual data
+**Result comparision with the actual data:**
 
 GRU
 
