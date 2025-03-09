@@ -51,9 +51,11 @@ Taipei/h23-g1
 Result comparision with the actual data
 
 GRU
+
 ![image](img/GRU_Kaohsiung_movements_compare.png)
 
 XGBoost
+
 ![image](img/XGBoost_Kaohsiung_movements_compare.png)
 
 TFT
@@ -66,6 +68,7 @@ GRU
 ![image](img/GRU_Nantou_movements_compare.png)
 
 XGBoost
+
 ![image](img/XGBoost_Nantou_movements_compare.png)
 
 TFT
