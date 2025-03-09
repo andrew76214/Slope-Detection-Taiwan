@@ -75,9 +75,11 @@ TFT
 ---
 
 GRU
+
 ![image](img/GRU_Taipei_movements_compare.png)
 
 XGBoost
+
 ![image](img/XGBoost_Taipei_movements_compare.png)
 
 TFT
