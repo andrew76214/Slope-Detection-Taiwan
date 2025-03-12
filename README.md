@@ -48,21 +48,47 @@ Taipei/h23-g1
 ![image](img/Taipei_h23-g1_remove.png)
 
 
-Result comparision with the actual data
+**Result comparision with the actual data:**
+
 GRU
+
 ![image](img/GRU_Kaohsiung_movements_compare.png)
+
 XGBoost
+
 ![image](img/XGBoost_Kaohsiung_movements_compare.png)
+
+TFT
+
+![image](img/TFT_Kaohsiung_movements_compare.png)
+
+---
 
 GRU
 ![image](img/GRU_Nantou_movements_compare.png)
+
 XGBoost
+
 ![image](img/XGBoost_Nantou_movements_compare.png)
 
+TFT
+
+![image](img/TFT_Nantou_movements_compare.png)
+
+---
+
 GRU
-![image](img/GRU_taipei_movements_compare.png)
+
+![image](img/GRU_Taipei_movements_compare.png)
+
 XGBoost
-![image](img/XGBoost_taipei_movements_compare.png)
+
+![image](img/XGBoost_Taipei_movements_compare.png)
+
+TFT
+
+![image](img/TFT_Taipei_movements_compare.png)
+
 ## Data Preprocessing  
 1. **Step 1: Choosing Relevent Columns** 
     - Getting target columns and features columns.
@@ -94,10 +120,10 @@ flowchart TD
 
 - **Decision Trees and Ensemble Models**:  
   - XGBoost  
-  - Random Forest  
 
 ### Deep Learning Models
   - GRU
+  - Temporal Fusion Transformer (TFT)
 
 ## Evaluation
 We use `MAE` and `RMSE` score as our performance metric.
